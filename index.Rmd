@@ -18,7 +18,7 @@ Comments in HTML are like this!
 Hello, Website!
 
 
-# My first section
+# My first section:
 
 ```{r}
 library(ggplot2)
@@ -28,7 +28,7 @@ ggplot(mtcars, aes(x=cyl, y= mpg)) +
 ```
 
 
-# My second section
+# My second section:
 
 ```{r}
 head(mtcars)
